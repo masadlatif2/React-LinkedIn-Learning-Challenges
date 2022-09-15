@@ -1,0 +1,19 @@
+{
+  "name": "react-linkedin-learning-challenges",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masadlatif2/React-LinkedIn-Learning-Challenges.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/masadlatif2/React-LinkedIn-Learning-Challenges/issues"
+  },
+  "homepage": "https://github.com/masadlatif2/React-LinkedIn-Learning-Challenges#readme"
+}
